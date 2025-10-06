@@ -1,11 +1,11 @@
-🎵 Song Genre Classification App
+🎵 # Song Genre Classification App
 
 Predict the genre of a song based on its lyrics using machine learning.
 Built with TF-IDF features, Linear SVM, and deployed using Streamlit.
 
 🌐 Deployment
 
-🎯 Try it here: 
+🎯 Try it here: https://song-genre-classification-app-ml-project-wwv53gfvq94fzdyugxq2i.streamlit.app/
 
 🚀 Features
 
@@ -84,7 +84,3 @@ Add audio-based feature integration
 
 👨‍💻 Author
 Vigi-2002
-
-
-🌐 LinkedIn
- | GitHub
